@@ -36,5 +36,4 @@ function juntaListas(lista1, lista2) {
     return listaFinal;
 }
 
-
 console.log(juntaListas(edGalho, edFolha));
